@@ -35,11 +35,11 @@
   "homepage": "https://github.com/gmaclennan/leaflet-bing-layer",
   "dependencies": {
     "bbox-intersect": "^0.1.1",
-    "browserify-shim": "^3.8.11",
     "fetch-jsonp": "^1.0.0",
     "leaflet": "^1.0.0-beta.2"
   },
   "devDependencies": {
+    "browserify-shim": "^3.8.11",
     "browserify": "^12.0.1",
     "budo": "^7.0.2",
     "standard": "^5.4.1"
